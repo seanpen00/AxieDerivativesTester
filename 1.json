@@ -1,0 +1,31 @@
+{
+    "description": "Check out your new Axie Derivative!",
+    "image": "",
+    "name": "Axie Derivative #1",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black Circle"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "None"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Small"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "asdfasdf",
+            "value": "asdfadsf"
+        }
+    ]
+}
