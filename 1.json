@@ -26,6 +26,10 @@
         {
             "trait_type": "asdfasdf",
             "value": "asdfadsf"
+        },
+        {
+            "trait_type": "new trait!",
+            "value": "hello!"
         }
     ]
 }
