@@ -1,35 +1,42 @@
 {
-    "description": "Check out your new Axie Derivative!",
+    "dna": "550536203",
+    "name": "#1",
+    "description": "This NFT is part of The Bee Collaborative Collection | Save the Bees with NFTs!",
     "image": "https://seanpen00.github.io/AxieDerivativesTester/1.png",
-    "name": "Axie Derivative #1",
+    "edition": 1,
+    "date": 1633053789080,
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "White"
+            "value": "BadAcid"
         },
         {
-            "trait_type": "Body",
-            "value": "Black Circle"
+            "trait_type": "Extra",
+            "value": "Christmas Lights"
         },
         {
-            "trait_type": "Hat",
-            "value": "None"
+            "trait_type": "Character",
+            "value": "TweeTheBee"
         },
         {
-            "trait_type": "Nose",
-            "value": "Small"
+            "trait_type": "Prop",
+            "value": "Explosive"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Biting Lip"
         },
         {
             "trait_type": "Face",
-            "value": "Happy"
+            "value": "Covid Mask"
         },
         {
-            "trait_type": "asdfasdf",
-            "value": "asdfadsf"
+            "trait_type": "Eyewear",
+            "value": "None"
         },
         {
-            "trait_type": "new trait!",
-            "value": "hello!"
+            "trait_type": "Headpiece",
+            "value": "Pirate Hat"
         }
     ]
 }
